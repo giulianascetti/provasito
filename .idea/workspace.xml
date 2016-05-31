@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/index/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/portfolio/css/images/arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/portfolio/css/images/bars.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/portfolio/css/images/close.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/portfolio/css/main.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/elements.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="$PROJECT_DIR$/assets/index/css/ie8.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="$PROJECT_DIR$/assets/index/css/ie9.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" afterPath="$PROJECT_DIR$/assets/index/css/images/arrow.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/bars.svg" afterPath="$PROJECT_DIR$/assets/index/css/images/bars.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/close.svg" afterPath="$PROJECT_DIR$/assets/index/css/images/close.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/index/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/assets/index/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/assets/index/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/assets/index/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/assets/index/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/assets/index/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/assets/index/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" afterPath="$PROJECT_DIR$/assets/index/js/ie/backgroundsize.min.htc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterPath="$PROJECT_DIR$/assets/index/js/ie/html5shiv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterPath="$PROJECT_DIR$/assets/index/js/ie/respond.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/assets/index/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterPath="$PROJECT_DIR$/assets/index/js/jquery.scrollex.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterPath="$PROJECT_DIR$/assets/index/js/jquery.scrolly.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/index/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/skel.min.js" afterPath="$PROJECT_DIR$/assets/index/js/skel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="$PROJECT_DIR$/assets/index/js/util.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/assets/index/sass/base/_page.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/assets/index/sass/base/_typography.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_box.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_button.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_form.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_icon.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_image.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_list.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_section.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_table.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/components/_tiles.scss" afterPath="$PROJECT_DIR$/assets/index/sass/components/_tiles.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" afterPath="$PROJECT_DIR$/assets/index/sass/ie8.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" afterPath="$PROJECT_DIR$/assets/index/sass/ie9.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/assets/index/sass/layout/_footer.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterPath="$PROJECT_DIR$/assets/index/sass/layout/_header.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterPath="$PROJECT_DIR$/assets/index/sass/layout/_main.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_menu.scss" afterPath="$PROJECT_DIR$/assets/index/sass/layout/_menu.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterPath="$PROJECT_DIR$/assets/index/sass/layout/_wrapper.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="$PROJECT_DIR$/assets/index/sass/libs/_functions.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="$PROJECT_DIR$/assets/index/sass/libs/_mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" afterPath="$PROJECT_DIR$/assets/index/sass/libs/_skel.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/assets/index/sass/libs/_vars.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/index/sass/main.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/elementslunchbox.html" afterPath="$PROJECT_DIR$/lunchbox.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/elementsspremiagrumi.html" afterPath="$PROJECT_DIR$/spremiagrumi.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/elementsttf.html" afterPath="$PROJECT_DIR$/ttf.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generic.html" afterPath="$PROJECT_DIR$/generic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
@@ -80,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="lunchbox.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lunchbox.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="7" />
+            <state relative-caret-position="179">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -105,11 +59,11 @@
         <option value="$PROJECT_DIR$/prova.html" />
         <option value="$PROJECT_DIR$/elements.html" />
         <option value="$PROJECT_DIR$/assets/portfolio/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/ttf.html" />
         <option value="$PROJECT_DIR$/spremiagrumi.html" />
         <option value="$PROJECT_DIR$/lunchbox.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
       </list>
     </option>
   </component>
@@ -120,10 +74,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1416" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -150,6 +104,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,19 +143,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giulianascetti.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giulianascetti.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -198,7 +166,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PortfolioGiuliaNascetti.github.io" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -291,32 +259,37 @@
       <workItem from="1464118438665" duration="6066000" />
       <workItem from="1464425043122" duration="1525000" />
       <workItem from="1464427338519" duration="2285000" />
+      <workItem from="1464458629240" duration="59000" />
+      <workItem from="1464458704163" duration="596000" />
+      <workItem from="1464459474208" duration="49000" />
+      <workItem from="1464705603237" duration="541000" />
+      <workItem from="1464706304797" duration="1604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18508000" />
+    <option name="totallyTimeSpent" value="21357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18282112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18234672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3156664" sideWeight="0.50157607" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3156664" sideWeight="0.49842396" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31489843" sideWeight="0.49842396" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -335,11 +308,56 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunchbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunchbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
           <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -347,9 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -365,7 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -373,7 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -381,7 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -389,7 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,41 +472,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
           <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/elements.html" />
     <entry file="file://$PROJECT_DIR$/assets/portfolio/css/images/bars.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="93" column="93" selection-start-line="93" selection-start-column="93" selection-end-line="93" selection-end-column="93" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="93" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -503,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="761">
           <caret line="2945" column="1" selection-start-line="2945" selection-start-column="1" selection-end-line="2945" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -511,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="3699" column="0" selection-start-line="3699" selection-start-column="0" selection-end-line="3776" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,7 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="23" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,14 +508,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="131" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lunchbox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="506">
           <caret line="23" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="130" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banner2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
           <folding />
         </state>
       </provider>
