@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aspirapolvere.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microfonowireless.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poderesanpietro.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/laterali_esagoni.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tiramisu.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/immagineiNaltottf.jpg" afterPath="$PROJECT_DIR$/images/immagineiNaltottf.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lunchbox.html" afterPath="$PROJECT_DIR$/lunchbox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spremiagrumi.html" afterPath="$PROJECT_DIR$/spremiagrumi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ttf.html" afterPath="$PROJECT_DIR$/ttf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aspirapolvere.html" afterPath="$PROJECT_DIR$/aspirapolvere.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,22 +27,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="microfonowireless.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microfonowireless.html">
+      <file leaf-file-name="ttf.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ttf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1980">
-              <caret line="90" column="730" selection-start-line="90" selection-start-column="730" selection-end-line="90" selection-end-column="730" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="poderesanpietro.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poderesanpietro.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1980">
-              <caret line="90" column="292" selection-start-line="90" selection-start-column="292" selection-end-line="90" selection-end-column="292" />
-              <folding />
+            <state relative-caret-position="1320">
+              <caret line="90" column="1048" selection-start-line="90" selection-start-column="1048" selection-end-line="90" selection-end-column="1048" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,9 +42,11 @@
       <file leaf-file-name="aspirapolvere.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aspirapolvere.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="90" column="331" selection-start-line="90" selection-start-column="331" selection-end-line="90" selection-end-column="331" />
-              <folding />
+            <state relative-caret-position="506">
+              <caret line="98" column="127" selection-start-line="98" selection-start-column="127" selection-end-line="98" selection-end-column="127" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,6 +132,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="giulianascetti.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giulianascetti.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="giulianascetti.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,12 +282,12 @@
       <workItem from="1464719827879" duration="4018000" />
       <workItem from="1464794964274" duration="489000" />
       <workItem from="1464872150304" duration="7645000" />
-      <workItem from="1464944963260" duration="11032000" />
+      <workItem from="1464944963260" duration="14369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49883000" />
+    <option name="totallyTimeSpent" value="53220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -620,16 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ttf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="90" column="1048" selection-start-line="90" selection-start-column="1048" selection-end-line="90" selection-end-column="1048" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spremiagrumi.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -666,11 +661,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ttf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="90" column="1048" selection-start-line="90" selection-start-column="1048" selection-end-line="90" selection-end-column="1048" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aspirapolvere.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="90" column="331" selection-start-line="90" selection-start-column="331" selection-end-line="90" selection-end-column="331" />
-          <folding />
+        <state relative-caret-position="506">
+          <caret line="98" column="127" selection-start-line="98" selection-start-column="127" selection-end-line="98" selection-end-column="127" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
