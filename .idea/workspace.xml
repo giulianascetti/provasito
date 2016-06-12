@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/7sprem.jpg" afterPath="$PROJECT_DIR$/images/7sprem.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/immagineiNaltolunchbox.jpg" afterPath="$PROJECT_DIR$/images/immagineiNaltolunchbox.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/1lunch.jpg" afterPath="$PROJECT_DIR$/images/1lunch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/4lunch.jpg" afterPath="$PROJECT_DIR$/images/4lunch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/4sprem.jpg" afterPath="$PROJECT_DIR$/images/4sprem.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/5lunch.jpg" afterPath="$PROJECT_DIR$/images/5lunch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/6lunch.jpg" afterPath="$PROJECT_DIR$/images/6lunch.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lunchbox.html" afterPath="$PROJECT_DIR$/lunchbox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ttf.html" afterPath="$PROJECT_DIR$/ttf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aspirapolvere.html" afterPath="$PROJECT_DIR$/aspirapolvere.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/microfonowireless.html" afterPath="$PROJECT_DIR$/microfonowireless.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poderesanpietro.html" afterPath="$PROJECT_DIR$/poderesanpietro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spremiagrumi.html" afterPath="$PROJECT_DIR$/spremiagrumi.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,22 +32,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="lunchbox.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lunchbox.html">
+      <file leaf-file-name="poderesanpietro.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/poderesanpietro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="98" column="136" selection-start-line="98" selection-start-column="136" selection-end-line="98" selection-end-column="136" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spremiagrumi.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spremiagrumi.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
-              <folding />
+            <state relative-caret-position="88">
+              <caret line="61" column="194" selection-start-line="61" selection-start-column="194" selection-end-line="61" selection-end-column="194" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,14 +62,14 @@
         <option value="$PROJECT_DIR$/assets/index/css/main.css" />
         <option value="$PROJECT_DIR$/assets/portfolio/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/aspirapolvere.html" />
-        <option value="$PROJECT_DIR$/microfonowireless.html" />
-        <option value="$PROJECT_DIR$/poderesanpietro.html" />
         <option value="$PROJECT_DIR$/curriculum.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
-        <option value="$PROJECT_DIR$/spremiagrumi.html" />
         <option value="$PROJECT_DIR$/lunchbox.html" />
         <option value="$PROJECT_DIR$/ttf.html" />
+        <option value="$PROJECT_DIR$/aspirapolvere.html" />
+        <option value="$PROJECT_DIR$/spremiagrumi.html" />
+        <option value="$PROJECT_DIR$/microfonowireless.html" />
+        <option value="$PROJECT_DIR$/poderesanpietro.html" />
       </list>
     </option>
   </component>
@@ -282,12 +279,12 @@
       <workItem from="1465232875860" duration="4537000" />
       <workItem from="1465373244717" duration="3365000" />
       <workItem from="1465725071937" duration="1594000" />
-      <workItem from="1465734015939" duration="2370000" />
+      <workItem from="1465734015939" duration="3340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70533000" />
+    <option name="totallyTimeSpent" value="71503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,31 +609,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aspirapolvere.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="115" column="101" selection-start-line="115" selection-start-column="101" selection-end-line="115" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1474">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microfonowireless.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="114" column="100" selection-start-line="114" selection-start-column="100" selection-end-line="114" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poderesanpietro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="45" column="17" selection-start-line="41" selection-start-column="4" selection-end-line="45" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -665,17 +641,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lunchbox.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
+        <state relative-caret-position="2156">
           <caret line="98" column="136" selection-start-line="98" selection-start-column="136" selection-end-line="98" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aspirapolvere.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spremiagrumi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
+        <state relative-caret-position="352">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microfonowireless.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="96" column="140" selection-start-line="96" selection-start-column="140" selection-end-line="96" selection-end-column="140" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poderesanpietro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="61" column="194" selection-start-line="61" selection-start-column="194" selection-end-line="61" selection-end-column="194" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
