@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/3ttf.jpg" afterPath="$PROJECT_DIR$/images/3ttf.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/4ttf.jpg" afterPath="$PROJECT_DIR$/images/4ttf.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/5ttf.jpg" afterPath="$PROJECT_DIR$/images/5ttf.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/6ttf.jpg" afterPath="$PROJECT_DIR$/images/6ttf.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/immagineiNaltottf.jpg" afterPath="$PROJECT_DIR$/images/immagineiNaltottf.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/immagineiNaltottf.psd" afterPath="$PROJECT_DIR$/images/immagineiNaltottf.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/7sprem.jpg" afterPath="$PROJECT_DIR$/images/7sprem.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/immagineiNaltolunchbox.jpg" afterPath="$PROJECT_DIR$/images/immagineiNaltolunchbox.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lunchbox.html" afterPath="$PROJECT_DIR$/lunchbox.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ttf.html" afterPath="$PROJECT_DIR$/ttf.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
@@ -30,31 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <file leaf-file-name="lunchbox.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lunchbox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2794">
-              <caret line="127" column="43" selection-start-line="127" selection-start-column="43" selection-end-line="127" selection-end-column="43" />
+            <state relative-caret-position="292">
+              <caret line="98" column="136" selection-start-line="98" selection-start-column="136" selection-end-line="98" selection-end-column="136" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spremiagrumi.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="spremiagrumi.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spremiagrumi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
+            <state relative-caret-position="507">
               <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ttf.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ttf.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="99" column="110" selection-start-line="99" selection-start-column="110" selection-end-line="99" selection-end-column="110" />
               <folding />
             </state>
           </provider>
@@ -79,12 +66,12 @@
         <option value="$PROJECT_DIR$/assets/portfolio/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aspirapolvere.html" />
-        <option value="$PROJECT_DIR$/lunchbox.html" />
         <option value="$PROJECT_DIR$/microfonowireless.html" />
         <option value="$PROJECT_DIR$/poderesanpietro.html" />
         <option value="$PROJECT_DIR$/curriculum.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/spremiagrumi.html" />
+        <option value="$PROJECT_DIR$/lunchbox.html" />
         <option value="$PROJECT_DIR$/ttf.html" />
       </list>
     </option>
@@ -295,12 +282,12 @@
       <workItem from="1465232875860" duration="4537000" />
       <workItem from="1465373244717" duration="3365000" />
       <workItem from="1465725071937" duration="1594000" />
-      <workItem from="1465734015939" duration="1562000" />
+      <workItem from="1465734015939" duration="2370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69725000" />
+    <option name="totallyTimeSpent" value="70533000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -639,13 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lunchbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="114" column="100" selection-start-line="114" selection-start-column="100" selection-end-line="114" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microfonowireless.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -669,16 +649,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2794">
+        <state relative-caret-position="476">
           <caret line="127" column="43" selection-start-line="127" selection-start-column="43" selection-end-line="127" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spremiagrumi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
           <folding />
         </state>
       </provider>
@@ -686,7 +658,23 @@
     <entry file="file://$PROJECT_DIR$/ttf.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="99" column="110" selection-start-line="99" selection-start-column="110" selection-end-line="99" selection-end-column="110" />
+          <caret line="96" column="134" selection-start-line="96" selection-start-column="134" selection-end-line="96" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lunchbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="98" column="136" selection-start-line="98" selection-start-column="136" selection-end-line="98" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spremiagrumi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
           <folding />
         </state>
       </provider>
